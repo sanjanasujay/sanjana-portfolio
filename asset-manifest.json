@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/sanjana-portfolio/static/css/main.709ce18f.css",
-    "main.js": "/sanjana-portfolio/static/js/main.404957ee.js",
+    "main.js": "/sanjana-portfolio/static/js/main.8a070e5c.js",
     "static/js/453.b05d8aa5.chunk.js": "/sanjana-portfolio/static/js/453.b05d8aa5.chunk.js",
-    "static/media/ml.png": "/sanjana-portfolio/static/media/ml.3a27e84d1faff96e1ae3.png",
     "static/media/profilePicture.png": "/sanjana-portfolio/static/media/profilePicture.a92b1a7a8ec823737264.png",
-    "static/media/mock04.png": "/sanjana-portfolio/static/media/mock04.d5a3cd0ad050f3668c5c.png",
+    "static/media/dicRAG.png": "/sanjana-portfolio/static/media/dicRAG.668b85882e1fc5eb851f.png",
     "static/media/bg-light.png": "/sanjana-portfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mockk.png": "/sanjana-portfolio/static/media/mockk.48ea712eb32613148139.png",
+    "static/media/cafeDb.png": "/sanjana-portfolio/static/media/cafeDb.381d79eea34be4d69ffa.png",
+    "static/media/distpG.png": "/sanjana-portfolio/static/media/distpG.d998e155a9e8f5d964fe.png",
+    "static/media/retailForecast.png": "/sanjana-portfolio/static/media/retailForecast.32d95f31977b874e9639.png",
+    "static/media/aiSupportTriage.png": "/sanjana-portfolio/static/media/aiSupportTriage.294fad82cf5f1fb22ff1.png",
     "static/media/bg-dark.jpg": "/sanjana-portfolio/static/media/bg-dark.a2eec7fbc171a0397eaf.jpg",
     "static/media/nlp.jpg": "/sanjana-portfolio/static/media/nlp.419a2b0092e088cc6f22.jpg",
     "index.html": "/sanjana-portfolio/index.html",
     "main.709ce18f.css.map": "/sanjana-portfolio/static/css/main.709ce18f.css.map",
-    "main.404957ee.js.map": "/sanjana-portfolio/static/js/main.404957ee.js.map",
+    "main.8a070e5c.js.map": "/sanjana-portfolio/static/js/main.8a070e5c.js.map",
     "453.b05d8aa5.chunk.js.map": "/sanjana-portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.709ce18f.css",
-    "static/js/main.404957ee.js"
+    "static/js/main.8a070e5c.js"
   ]
 }
